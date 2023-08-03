@@ -20,7 +20,7 @@
 
 4、安装旧ui
 
-``esxcli software vib install -v /VMware_bootbank_esx-ui_1.43.10-20199807.vib``
+``esxcli software vib install -v /VMware_bootbank_esx-ui_1.33.7-15803439.vib``
 
 不用重启，ui替换完即时生效
 
