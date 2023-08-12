@@ -10,7 +10,9 @@
 
 操作步骤：
 
-1、打开esxi的ssh、tsm-ssh
+1、打开esxi的ssh
+
+![image](https://github.com/tujj99/esxi6.7u3P8_UI_fix/assets/53027340/828bf417-2d2b-4dd5-bf0c-19f5a07c68a7)
 
 2、下载VMware_bootbank_esx-ui_1.33.7-15803439.vib到esxi任意目录
 
