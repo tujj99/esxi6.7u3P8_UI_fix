@@ -14,7 +14,7 @@
 
 ![image](https://github.com/tujj99/esxi6.7u3P8_UI_fix/assets/53027340/828bf417-2d2b-4dd5-bf0c-19f5a07c68a7)
 
-2、下载VMware_bootbank_esx-ui_1.33.7-15803439.vib到esxi任意目录
+2、下载[VMware_bootbank_esx-ui_1.33.7-15803439.vib](https://github.com/tujj99/esxi6.7u3P8_UI_fix/blob/main/VMware_bootbank_esx-ui_1.33.7-15803439.vib)到esxi任意目录
 
 3、移除原有ui
 
